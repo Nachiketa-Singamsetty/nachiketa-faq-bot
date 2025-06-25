@@ -86,6 +86,10 @@ nachiketa3003@gmail.com
 
 ### 📸 Demo Preview
 
+[Live Demo](https://nachiketa-faq-bot.onrender.com)
+
+> ⚡ **Note:** As this is hosted on Render's free tier, the website may take up to a minute to activate if it's been idle.
+
 ![Demo Preview](static/image.png)
 
 <!-- You can add a screenshot later -->
